@@ -2,9 +2,9 @@
 
 这个仓库记录一些我在区块链行业整理的闯关的秘籍，<br>希望你也能在用好这份清单，团结圈内的力量，推动区块链媒体行业的发展。
 
-[越过高山](https://github.com/lvxuan149/BlockchainSecret/blob/master/180606OExploreWorld.md)
+[越过高山](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180606OExploreWorld.md)
 
-[行业全景导航](https://github.com/lvxuan149/BlockchainSecret/blob/master/180604BlockchainMap.md)
+[行业全景导航](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180604BlockchainMap.md)
 
 
 
