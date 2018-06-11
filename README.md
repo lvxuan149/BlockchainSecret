@@ -1,6 +1,9 @@
 # 梦里独醒区块链
 
+![](https://ws3.sinaimg.cn/large/006tKfTcly1fs82bzsxdhj30sg0lcqoh.jpg)
+
 公元2018年5月7日，我写下[《开光引序》](http://leonxuan.com/2018/05/07/180503Blockchain/)随后开启了在一个分布式世界的冒险之旅，这个仓库记录我闯关的避险指南，<br>希望你也能在用好这份清单，团结圈内的力量，激发沉睡中的变革神力。
+
 
 - [越过高山](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180606OExploreWorld.md)
 
