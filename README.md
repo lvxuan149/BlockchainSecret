@@ -2,8 +2,8 @@
 
 ![](https://ws3.sinaimg.cn/large/006tKfTcly1fs82ez4watj31hc0u0qv5.jpg)
 
-公元2018年5月7日，敲下[《开光引序》](http://leonxuan.com/2018/05/07/180503Blockchain/)的夜晚，清风伴着凉爽的北京，<br>少年在心头缠绕一个畅想
-> “区块链技术裹挟人类将会走向何方？？？”
+公元2018年5月7日，敲下文章[《梦里独醒区块链》](http://leonxuan.com/2018/05/07/180503Blockchain/)的夜晚，清风伴着凉爽的北京，<br>少年心头缠绕和文章结尾有关的大问题
+> “技术滞后的概念化产物刚开始凸显价值，跨过泡沫，梦里独醒，又是新的一片丛林，那么区块链技术裹挟人类将会走向何方？？？”
 
 懵懂的他悄悄踏入这场分布式世界的探险之旅，这个仓库记录他闯关的避险指南，<br>希望大家能能用好这份指南，团结共识的力量，激发沉睡中的变革神力。
 
@@ -11,6 +11,10 @@
 - [越过高山](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180606OExploreWorld.md)
 
 - [俯瞰全链](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180604BlockchainMap.md)
+
+- [全局控盘]()
+
+- [小步快跑]()
 
 
 
