@@ -2,7 +2,7 @@
 
 ## 资源
 
-### BTC
+**BTC**
 
 - [比特币白皮书：一种点对点的电子现金系统](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
 
@@ -13,7 +13,7 @@
 - [比特币常见问题](https://bitcoin.org/zh_CN/faq)
 
 
-### ETH
+**ETH**
 
 - [以太坊白皮书](https://ethfans.org/wikis/以太坊白皮书)
 
@@ -21,7 +21,7 @@
 
 - [以太坊入门指南](https://ethfans.org/wikis/Home)
 
-### EOS
+**EOS**
 
 - [[原创] EOS.IO技术白皮书第二版中文版](https://www.jianshu.com/p/785c220d6132?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 
@@ -30,11 +30,11 @@
 
 ## 学习策略
 
-### 时间：安排以BTC为主，
+时间：安排以BTC为主，
 
-### 目标：弄懂所有区块链世界中的概念
+目标：弄懂所有区块链世界中的概念
 
-### 步骤：BTC先搞懂，同样的策略适用ETH、EOS
+步骤：BTC先搞懂，同样的策略适用ETH、EOS
 
 - 快速浏览《比特币白皮书》，了解行业术语
 
