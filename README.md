@@ -12,9 +12,9 @@
 
 - [俯瞰全链](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180604BlockchainMap.md)
 
-- [全局控盘]()
+- [全局控盘](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180612BlockchainBigEyes.md)
 
-- [小步快跑]()
+- [小步快跑](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180606WhitePapers.md)
 
 
 
