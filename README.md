@@ -2,16 +2,15 @@
 
 ![](https://ws3.sinaimg.cn/large/006tKfTcly1fs82ez4watj31hc0u0qv5.jpg)
 
-公元2018年5月7日，我写下[《开光引序》](http://leonxuan.com/2018/05/07/180503Blockchain/)随后开启了在一个分布式世界的冒险之旅，这个仓库记录我闯关的避险指南，<br>希望你也能在用好这份清单，团结圈内的力量，激发沉睡中的变革神力。
+公元2018年5月7日，敲下[《开光引序》](http://leonxuan.com/2018/05/07/180503Blockchain/)的夜晚，清风伴着凉爽的北京，<br>少年在心头缠绕一个畅想
+> “区块链技术裹挟人类将会走向何方？？？”
+
+懵懂的他悄悄踏入这场分布式世界的探险之旅，这个仓库记录他闯关的避险指南，<br>希望大家能能用好这份指南，团结共识的力量，激发沉睡中的变革神力。
 
 
 - [越过高山](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180606OExploreWorld.md)
 
 - [俯瞰全链](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180604BlockchainMap.md)
-
-
-
-
 
 
 
