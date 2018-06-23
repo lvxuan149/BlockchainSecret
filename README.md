@@ -16,11 +16,7 @@
 
 - [小步快跑](https://github.com/lvxuan149/BlockchainSecret/blob/master/CONTENT/180606WhitePapers.md)
 
-
-
-
-
-## Contribution
+## 贡献
 
 欢迎你也贡献这个仓库，帮助区块链媒体塑造成更去中心化的氛围;-)
 
@@ -32,6 +28,15 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
 
+## 觉得有用?
+
+任何噩梦般的技术，归根到底都是消除权威的技术，非常感谢区块链技术帮助像我这样的90后平等的参与这个世界的变化，所以如果你觉得这个仓库有用，欢迎在数字资产世界资助我，让我们一起撸起袖子，背上背包，拥抱变化。
+**以下是我的钱包地址，任何付出（不管都微小）我都将深深感谢。**
+
+- **BTC**：16sNhoaJxVRDvJLXMGamq6tC5kKaeRz5RA
+- **ETH**：0x8fCF440260a292C68F134be21B953DCAD87cA417
+- **USDT**:16sNhoaJxVRDvJLXMGamq6tC5kKaeRz5RA
+
 ## Changelog
 
 - 180601 Leon 创建
@@ -39,6 +44,8 @@
 - 180611 Leon 添加内容
 
 - 180612 Leon 添加图片，整理组块
+
+- 180623 Leon 添加捐助通道
 
 
 

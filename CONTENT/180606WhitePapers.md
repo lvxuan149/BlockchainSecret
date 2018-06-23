@@ -6,6 +6,8 @@
 
 - [比特币白皮书：一种点对点的电子现金系统](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
 
+- [比特币维基百科](https://zh-cn.bitcoin.it/wiki/首页)
+
 - [《精通比特币》丛书](http://zhibimo.com/read/wang-miao/mastering-bitcoin/index.html)
 
 - [比特币交易入门指南](https://bitcoin.org/zh_CN/getting-started)
