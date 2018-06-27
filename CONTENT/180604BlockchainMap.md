@@ -12,8 +12,6 @@
 
 - [steemnit——区块链内容付费平台](https://steemit.com/trending)
 
-- 
-
 ## 区块链行业网址导航
 
 [区块链导航](https://www.block123.com)
