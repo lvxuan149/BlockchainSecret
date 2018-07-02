@@ -1,20 +1,12 @@
 # 区块链网址导航
 
-## 国外常用媒体
+## 行业
 
-- [Reddit-国外的灌水论坛](https://www.reddit.com)
-
-- [Medium——国外的新浪博客](https://medium.com/)
-
-- [Quora-国外的知乎](https://www.quora.com/)
-
-- [techcrunch-国外的新浪科技](https://techcrunch.com/)
-
-- [steemnit——区块链内容付费平台](https://steemit.com/trending)
-
-## 区块链行业网址导航
+### 行业全景
 
 [区块链导航](https://www.block123.com)
+
+[金色财经导航](https://www.jinse.com/nav)
 
 [BTC123网址导航](https://www.btc123.com/)
 
@@ -28,57 +20,83 @@
 
 [共识导航](http://www.gs265.com/index.php)
 
-## 行业资讯
+### 一手信息
 
-### 中国
+[Reddit-国外的灌水论坛](https://www.reddit.com)
 
-- [巴比特资讯](http://www.8btc.com/news)
+[Medium——国外的新浪博客](https://medium.com/)
 
-- [比特评级资讯](https://bitrating.com/live)
+[Quora-国外的知乎](https://www.quora.com/)
 
-- [链闻快讯](https://www.chainnews.com/news/)
+[techcrunch-国外的新浪科技](https://techcrunch.com/)
+
+[steemnit——区块链内容付费平台](https://steemit.com/trending)
+
+### 快讯
+
+[区块链创业项目的目录式查询](http://tokenfilings.com/?ref=block123)
+
+[巴比特资讯](http://www.8btc.com/news)
+
+[比特评级资讯](https://bitrating.com/live)
+
+[链闻快讯](https://www.chainnews.com/news/)
 
 ### 交易所
 
-[火币](https://www.huobipro.com)/[币安 ](https://www.binance.com)/[OKCoin](https://www.okcoin.cn)/[gate.io](https://gateio.io)/[非小号](https://www.feixiaohao.com/#USD)/[block.cc大数据服务平台](https://block.cc)
+[火币](https://www.huobipro.com)/[币安 ](https://www.binance.com)/[OKCoin](https://www.okcoin.cn)/[gate.io](https://gateio.io)/[非小号](https://www.feixiaohao.com/#USD)/[block.cc大数据服务平台](https://block.cc)/[币小白](http://www.bixiaobai.com/index/index/index)
 
-### 媒体平台
+### 媒体
 
 [比特之窗咨询导航](http://www.btc789.com/list-65-1.html)/[金色财经](https://www.jinse.com/)/[火星财经](http://www.huoxing24.com/)/[币世界](http://www.bishijie.com/kuaixun/)/[核财经](https://www.hecaijing.com/)/[链得得](http://www.chaindd.com/) 
 
-### 深度文章
+### 深度
 
 [深链财经](http://www.shenliancaijing.com/)/[一本财经](http://www.yibencaijing.com/)/[odaily星球日报](https://www.odaily.com/)/[北纬31度](https://mp.weixin.qq.com/s/fMn5kcWeNS1snF1XUEPkNg)/[布洛克科技](http://www.youjiatuanjian.com/)
 
 ## 项目
 
-### ETH
+### 项目全景
 
-[ETH粉丝网址导航](https://ethfans.org)/[以太坊国外新闻平台](https://ethereumworldnews.com)
+[金色财经-项目](https://www.jinse.com/organization_0_all_blockchain_北京)
 
-### 行情
+[ICO 评级列表](https://icoholder.com/zh/distributed-credit-chain-dcc-19025)
 
-[牛眼行情](https://niuyan.com)
-
-### ico预售
+[Tokendata-ICO项目](https://www.tokendata.io)
 
 [ICO日历](http://www.bitansuo.com/calendar/waiting/)
 
-### 风险评级
+[币时间](https://www.bishijian.com)
+
+[币探索](http://www.bitansuo.com)
+
+[ICO 中文导航](http://www.52ico.com/?ref=block123)
+
+### 行情
+
+[脱壳经济](https://www.mybesttoken.com)
+
+[牛眼行情](https://niuyan.com)
+
+[金子铺](https://www.jzp.com)
+
+[金塔](http://quintar.com)
+
+### 评级
 
 [onetop](http://www.one.top/grade)
 
 [icopod](http://www.icopod.com/rating-displine/#)
 
-[每日币读](http://www.coindaily.io/#/home)
-
 [标准共识](http://sncrating.com)
 
 [比特评级](https://bitrating.com/blockchain/135609.html)
 
-[币探索](http://www.bitansuo.com)
-
 ### 区块链技术信息查询
+
+[BTC查询](https://btc.com/)
+
+[blockchain.com](https://www.blockchain.com/)
 
 [cryptomiso-加密货币技术代码提交](https://www.cryptomiso.com/)
 
@@ -90,7 +108,11 @@
 
 [专业分叉信息站](http://pieifo.com)
 
+[全球首个全币种区块查询](https://tokenview.com/cn/btc/tx/529718/1138)
+
 ### 人物查找
+
+[名人库](http://www.qukuaiwang.com.cn/ico.html)
 
 [法律尽职调查工具集成（尽调网站篇](https://zhuanlan.zhihu.com/p/25963347?utm_source=wechat_session&utm_medium=social&utm_oi=806460544906334208&from=timeline&isappinstalled=0)
 
@@ -99,10 +121,6 @@
 [企查查](https://www.qichacha.com)
 
 [天眼查](https://www.tianyancha.com)
-
-### 区块链名人
-
-[名人库](http://www.qukuaiwang.com.cn/ico.html)
 
 ### 区块链行业活动
 
@@ -136,14 +154,9 @@
 
 [巴比特文库](http://8btc.com/doc-doc.html)
 
-### 其他
-
-[P网搬砖](https://poloniex.com/exchange#btc_eth)
-
-
 ## Changelog
-
 
 - 180530 Leon 创建
 - 180604 Leon 补充
 - 180605 Leon 整理
+- 180702 Leon 调整
