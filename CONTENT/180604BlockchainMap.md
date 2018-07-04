@@ -1,4 +1,4 @@
-# 区块链网址导航
+# 区块链捕手
 
 ## 行业
 
@@ -22,7 +22,14 @@
 
 ### 一手信息
 
+[比特币论坛-Bitcoin Forum](https://bitcointalk.org/)
+
+[ETHNEWS](https://www.ethnews.com/)
+
 [Reddit-国外的灌水论坛](https://www.reddit.com)
+> - [今日头条垂涎已久的Reddit，到底是个什么网站？](http://www.cyzone.cn/a/20171130/319172.html)
+>
+> - [撸国外项目不能不看的网站—Reddit！](http://8btc.com/thread-85317-1-1.html)
 
 [Medium——国外的新浪博客](https://medium.com/)
 
@@ -48,6 +55,20 @@
 
 ### 媒体
 
+[news.bitcoin](https://news.bitcoin.com)
+
+[coindesk](https://www.coindesk.com)
+
+[cointelegraph](https://cointelegraph.com)
+
+[ccn](https://www.ccn.com)
+
+[newsbtc](https://www.newsbtc.com)
+
+[bitcoinist](http://bitcoinist.com)
+
+[orklog](http://forklog.net)
+
 [比特之窗咨询导航](http://www.btc789.com/list-65-1.html)/[金色财经](https://www.jinse.com/)/[火星财经](http://www.huoxing24.com/)/[币世界](http://www.bishijie.com/kuaixun/)/[核财经](https://www.hecaijing.com/)/[链得得](http://www.chaindd.com/) 
 
 ### 深度
@@ -58,11 +79,17 @@
 
 ### 项目全景
 
+[aicoin全球数字资产行情数据应用领跑者](https://www.aicoin.net.cn/)
+
+[链塔项目库](http://www.blockdata.club/site/project)
+
 [金色财经-项目](https://www.jinse.com/organization_0_all_blockchain_北京)
 
 [ICO 评级列表](https://icoholder.com/zh/distributed-credit-chain-dcc-19025)
 
 [Tokendata-ICO项目](https://www.tokendata.io)
+
+[TokenInsight](https://tokenin.io/)
 
 [ICO日历](http://www.bitansuo.com/calendar/waiting/)
 
@@ -74,6 +101,8 @@
 
 ### 行情
 
+[cryptoslate](https://cryptoslate.com/)
+
 [脱壳经济](https://www.mybesttoken.com)
 
 [牛眼行情](https://niuyan.com)
@@ -82,7 +111,21 @@
 
 [金塔](http://quintar.com)
 
-### 评级
+### 数字货币评级
+
+
+
+### ICO项目评级
+
+[icochamps](https://www.icochamps.com/)
+
+[ICOBench](https://icobench.com/)
+
+[ICOrating](https://icorating.com/ico/distributed-credit-chain/team/)
+
+[Weiss Cryptocurrency Ratings ](https://weisscryptocurrencyratings.com/)
+
+[CrushCrypto](https://crushcrypto.com/)
 
 [onetop](http://www.one.top/grade)
 
@@ -92,7 +135,7 @@
 
 [比特评级](https://bitrating.com/blockchain/135609.html)
 
-### 区块链技术信息查询
+### 区块链工具
 
 [BTC查询](https://btc.com/)
 
@@ -113,6 +156,8 @@
 ### 人物查找
 
 [名人库](http://www.qukuaiwang.com.cn/ico.html)
+
+[链塔投资机构](http://www.blockdata.club/site/Investor)
 
 [法律尽职调查工具集成（尽调网站篇](https://zhuanlan.zhihu.com/p/25963347?utm_source=wechat_session&utm_medium=social&utm_oi=806460544906334208&from=timeline&isappinstalled=0)
 
