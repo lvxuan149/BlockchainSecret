@@ -22,10 +22,6 @@
 
 ### 一手信息
 
-[比特币论坛-Bitcoin Forum](https://bitcointalk.org/)
-
-[ETHNEWS](https://www.ethnews.com/)
-
 [Reddit-国外的灌水论坛](https://www.reddit.com)
 > - [今日头条垂涎已久的Reddit，到底是个什么网站？](http://www.cyzone.cn/a/20171130/319172.html)
 >
@@ -55,11 +51,20 @@
 
 ### 媒体
 
+
+[比特币论坛-Bitcoin Forum](https://bitcointalk.org/)
+
+[ETHNEWS](https://www.ethnews.com/)
+
 [news.bitcoin](https://news.bitcoin.com)
+
+[thenextweb](https://thenextweb.com/about/)
 
 [coindesk](https://www.coindesk.com)
 
 [cointelegraph](https://cointelegraph.com)
+
+> 上涨幅度，
 
 [ccn](https://www.ccn.com)
 
@@ -69,7 +74,21 @@
 
 [orklog](http://forklog.net)
 
+[cointrendz](https://cointrendz.com/)
+> twitter讨论量
+
+[cryptovest](https://cryptovest.com/)
+
 [比特之窗咨询导航](http://www.btc789.com/list-65-1.html)/[金色财经](https://www.jinse.com/)/[火星财经](http://www.huoxing24.com/)/[币世界](http://www.bishijie.com/kuaixun/)/[核财经](https://www.hecaijing.com/)/[链得得](http://www.chaindd.com/) 
+
+### 数据
+
+[aicoin全球数字资产行情数据应用领跑者](https://www.aicoin.net.cn/)
+
+> 资金流入、流出
+
+[www.searchain.io](http://www.searchain.io/dynamic)
+> Searchain是全球领先的区块链交易溯源搜索引擎，基于区块链交易构成的复杂关系网络，运用图计算、机器学习和图构建等技术，为用户提供数字资产网络的交易真实性校验，交易溯源，交易追踪、交易探索等交易监测服务
 
 ### 深度
 
