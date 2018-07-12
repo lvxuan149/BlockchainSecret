@@ -79,6 +79,14 @@
 
 [cryptovest](https://cryptovest.com/)
 
+[insidebitcoins](https://insidebitcoins.com)
+
+[btcmanager](https://btcmanager.com)
+
+[hackernoon](https://hackernoon.com/)
+
+[digitalmoneytimes](http://digitalmoneytimes.com/vitalik-buterin-blasts-centralized-cryptocurrency-exchanges/)
+
 [比特之窗咨询导航](http://www.btc789.com/list-65-1.html)/[金色财经](https://www.jinse.com/)/[火星财经](http://www.huoxing24.com/)/[币世界](http://www.bishijie.com/kuaixun/)/[核财经](https://www.hecaijing.com/)/[链得得](http://www.chaindd.com/) 
 
 ### 数据
@@ -89,6 +97,8 @@
 
 [www.searchain.io](http://www.searchain.io/dynamic)
 > Searchain是全球领先的区块链交易溯源搜索引擎，基于区块链交易构成的复杂关系网络，运用图计算、机器学习和图构建等技术，为用户提供数字资产网络的交易真实性校验，交易溯源，交易追踪、交易探索等交易监测服务
+
+[bitinfocharts](https://bitinfocharts.com/)
 
 ### 深度
 
