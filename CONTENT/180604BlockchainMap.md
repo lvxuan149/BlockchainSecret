@@ -64,7 +64,15 @@
 
 [cointelegraph](https://cointelegraph.com)
 
-> 上涨幅度，
+[blockonomi](https://blockonomi.com/)
+
+[coinstaker](https://www.coinstaker.com/)
+
+[cryptohackers](https://cryptohackers.com/)
+
+[businessinsider](http://www.businessinsider.com/)
+
+> 上涨幅度
 
 [ccn](https://www.ccn.com)
 
